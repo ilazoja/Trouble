@@ -10,7 +10,7 @@
 #define ASSERT_FALSE(T) if ((T)) return false;
 
 #include "TroubleBoard.hpp"
-#include <ctime> // Needed for the true randomization
+#include <ctime> //Needed for the true randomization
 #include <cstdlib>
 using namespace std;
 
